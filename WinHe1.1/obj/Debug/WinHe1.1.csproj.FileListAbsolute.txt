@@ -1,0 +1,22 @@
+c:\users\samee\onedrive\documents\visual studio 2013\Projects\WinHe1.1\WinHe1.1\bin\Debug\WinHe1.1.exe.config
+F:\C# projects\WinHe1.1\WinHe1.1\bin\Debug\WinHe1.1.exe.config
+F:\C# projects\WinHe1.1\WinHe1.1\bin\Debug\WinHe1.1.exe
+F:\C# projects\WinHe1.1\WinHe1.1\bin\Debug\WinHe1.1.pdb
+F:\C# projects\WinHe1.1\WinHe1.1\bin\Debug\BusinessLogic.dll
+F:\C# projects\WinHe1.1\WinHe1.1\bin\Debug\Model.dll
+F:\C# projects\WinHe1.1\WinHe1.1\bin\Debug\BusinessLogic.pdb
+F:\C# projects\WinHe1.1\WinHe1.1\bin\Debug\Model.pdb
+F:\C# projects\WinHe1.1\WinHe1.1\obj\Debug\WinHe1.1.csprojResolveAssemblyReference.cache
+F:\C# projects\WinHe1.1\WinHe1.1\obj\Debug\WinHe1._1.home.resources
+F:\C# projects\WinHe1.1\WinHe1.1\obj\Debug\WinHe1._1.Properties.Resources.resources
+F:\C# projects\WinHe1.1\WinHe1.1\obj\Debug\WinHe1.1.csproj.GenerateResource.Cache
+F:\C# projects\WinHe1.1\WinHe1.1\obj\Debug\WinHe1.1.exe
+F:\C# projects\WinHe1.1\WinHe1.1\obj\Debug\WinHe1.1.pdb
+F:\C# projects\WinHe1.1\WinHe1.1\obj\Debug\WinHe1._1.AddProduct.resources
+F:\C# projects\WinHe1.1\WinHe1.1\obj\Debug\WinHe1._1.products.resources
+F:\C# projects\WinHe1.1\WinHe1.1\bin\Debug\DataLogic.dll
+F:\C# projects\WinHe1.1\WinHe1.1\bin\Debug\EntityFramework.dll
+F:\C# projects\WinHe1.1\WinHe1.1\bin\Debug\DataLogic.pdb
+F:\C# projects\WinHe1.1\WinHe1.1\bin\Debug\EntityFramework.xml
+F:\C# projects\WinHe1.1\WinHe1.1\bin\Debug\EntityFramework.SqlServer.dll
+F:\C# projects\WinHe1.1\WinHe1.1\bin\Debug\EntityFramework.SqlServer.xml

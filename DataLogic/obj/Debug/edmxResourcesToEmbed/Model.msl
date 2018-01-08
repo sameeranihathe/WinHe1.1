@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="WinHeModelStoreContainer" CdmEntityContainer="WinHeEntities">
+    <EntitySetMapping Name="tbl_products">
+      <EntityTypeMapping TypeName="WinHeModel.tbl_products">
+        <MappingFragment StoreEntitySet="tbl_products">
+          <ScalarProperty Name="product_id" ColumnName="product_id" />
+          <ScalarProperty Name="product_name" ColumnName="product_name" />
+          <ScalarProperty Name="product_description" ColumnName="product_description" />
+          <ScalarProperty Name="purchase_price" ColumnName="purchase_price" />
+          <ScalarProperty Name="selling_price" ColumnName="selling_price" />
+          <ScalarProperty Name="quantity" ColumnName="quantity" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
