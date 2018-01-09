@@ -11,9 +11,15 @@ namespace BusinessLogic
     public class ProductBusinessLogic
     {
         ProductData productdata = new ProductData();
-        //INsert to Db
+        //Insert in to Db
         public void Insert(ProductModel ProductModel){
             productdata.Insert(ProductModel);
+        }
+
+        //Update database
+        public void Update(ProductModel pm)
+        {
+            productdata.Update(pm);
         }
     }
 }

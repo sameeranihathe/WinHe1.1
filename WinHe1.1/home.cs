@@ -23,5 +23,12 @@ namespace WinHe1._1
             this.Hide();
             products.Show();
         }
+
+        private void btn_customers_Click(object sender, EventArgs e)
+        {
+            Customers cus = new Customers();
+            this.Hide();
+            cus.Show();
+        }
     }
 }

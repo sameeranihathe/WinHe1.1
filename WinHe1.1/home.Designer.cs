@@ -60,8 +60,9 @@
             this.btn_customers.TabIndex = 2;
             this.btn_customers.Text = "Customers";
             this.btn_customers.UseVisualStyleBackColor = true;
+            this.btn_customers.Click += new System.EventHandler(this.btn_customers_Click);
             // 
-            // Form1
+            // home
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -69,7 +70,7 @@
             this.Controls.Add(this.btn_customers);
             this.Controls.Add(this.btn_invoices);
             this.Controls.Add(this.btn_products);
-            this.Name = "Form1";
+            this.Name = "home";
             this.Text = "WinHe";
             this.ResumeLayout(false);
 

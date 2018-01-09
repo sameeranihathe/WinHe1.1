@@ -20,3 +20,4 @@ F:\C# projects\WinHe1.1\WinHe1.1\bin\Debug\DataLogic.pdb
 F:\C# projects\WinHe1.1\WinHe1.1\bin\Debug\EntityFramework.xml
 F:\C# projects\WinHe1.1\WinHe1.1\bin\Debug\EntityFramework.SqlServer.dll
 F:\C# projects\WinHe1.1\WinHe1.1\bin\Debug\EntityFramework.SqlServer.xml
+F:\C# projects\WinHe1.1\WinHe1.1\obj\Debug\WinHe1._1.UpdateProducts.resources

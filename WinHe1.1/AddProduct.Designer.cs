@@ -63,6 +63,7 @@
             this.txt_quantity.Name = "txt_quantity";
             this.txt_quantity.Size = new System.Drawing.Size(100, 22);
             this.txt_quantity.TabIndex = 3;
+            this.txt_quantity.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txt_quantity_KeyPress);
             // 
             // lbl_quantity
             // 
@@ -79,6 +80,7 @@
             this.txt_sellingPrice.Name = "txt_sellingPrice";
             this.txt_sellingPrice.Size = new System.Drawing.Size(100, 22);
             this.txt_sellingPrice.TabIndex = 5;
+            this.txt_sellingPrice.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txt_sellingPrice_KeyPress);
             // 
             // lbl_sellingprice
             // 
@@ -96,6 +98,7 @@
             this.txt_purchasePrice.Name = "txt_purchasePrice";
             this.txt_purchasePrice.Size = new System.Drawing.Size(100, 22);
             this.txt_purchasePrice.TabIndex = 7;
+            this.txt_purchasePrice.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txt_purchasePrice_KeyPress);
             // 
             // lbl_purchaseprice
             // 
